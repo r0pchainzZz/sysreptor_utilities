@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# file: convert_project_user_ids.py 
+# file: sysreptor_convert_project_user_ids.py 
 # 
 # version: 1.0
 #
